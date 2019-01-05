@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	background-color: #151515;
+	background-image:url(bk.jpg);
+	background-repeat: no-repeat;
+	background-position:contain;
+}
+
+.topheader{
+	align:center;
+	height:88px;
+	
+}
+#topflash{
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mainbody {
+	width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+	
+	
+}
+
+.iframemain {
+	width: 100%;
+	height: 650px;
+	align: center;
+	border: #151515 solid 3px;
+	
+}
+
+.otherpage {
+	background-color: #67B124;
+	font: 17px Verdana;
+	margin-left:40px;
+	margin-right:40px;
+	margin-top:40px;
+}
+.otherpage h2, h3, p  {
+  color: #ffffff;
+}
+.textbk {
+	background-color: transparent;
+	text-align:center;
+	line-height:60px;
+	margin-left:200px;
+	margin-right:200px;
+	
+}
+.footer{
+	width:40%;
+	margin:auto;
+	height:50px;
+	font: 16px Verdana;
+	text-align:center;
+	padding: 15px 105px;
+	background-color:#6b7b7c;
+	color: #000000;
+	padding: 0px 20px;
+	box-shadow: 0 20px 40px 10px #464646 inset;
+	border: #151515 solid 3px;
+	border-radius:0px 0px 600px 600px;
+}
+a:visited {
+   
+}
+/*subback {
+	background-color:#6b7b7c;
+	color: #ADADAD;
+	box-shadow: 0 20px 70px 0px #151515 inset;
+	border: #232323 double 3px;
+	width:1250px;*/
+}
+
+/* ============================ */
+/* MENU BAR FOR DESKTOP VIEWING */
+/* ============================ */
+.menubar {
+	
+}
+.menubar ul {
+  list-style:none;
+}
+	
+.menubar ul li {
+	float:left;
+	
+}
+	
+.menubar ul li a{
+  font: 16px Verdana;
+  padding: 3px 0px 3px 0px;
+  background: #A277D8;
+  width: 110px;
+  height: 20px;
+  border: #191919 solid 1px;
+  box-shadow: 0 10px 10px -5px #8c8b8b inset;
+  text-align:center;
+  border-radius: 5px 0px 0px 0px;
+  color: #F8F0F1;
+  cursor:pointer;
+  background: #393939;
+  display: inline-block;
+  text-decoration: none;
+
+}
+
+.menubar ul li a:hover {
+  font: 15px Verdana;
+  padding: 3px 0px 3px 0px;
+  background: #A277D8;
+  width: 110px;
+  height: 20px;
+  border: #191919 solid 1px;
+  box-shadow: 0 10px 10px -5px #D9D9D9 inset;
+  text-align:center;
+  border-radius: 5px 0px 0px 0px;
+  color: #272727;
+  cursor:pointer;
+  background: #888888;
+  display: inline-block;
+}
+/* ============================ */
+/* ============================ */
+/* ============================ */
+
+
+/* ============================ */
+/* MENU BAR FOR MOBLIE VIEWING */
+/* ============================ */
+.menubarm {
+	
+}
+.menubarm ul {
+  list-style:none;
+}
+	
+.menubarm ul li {
+	
+	
+}
+	
+.menubarm ul li a{
+  font: bold 15px arial;
+  padding: 3px 0px 3px 0px;
+  background: #A277D8;
+  width: 110px;
+  height: 20px;
+  border: #191919 solid 1px;
+  box-shadow: 0 10px 10px -5px #8c8b8b inset;
+  text-align:center;
+  border-radius: 5px 0px 0px 0px;
+  color: #9B9B9B;
+  cursor:pointer;
+  background: #393939;
+  display: inline-block;
+}
+
+/* ============================ */
+/* ============================ */
+/* ============================ */
